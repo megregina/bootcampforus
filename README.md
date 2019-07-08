@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
-  <head>
+ <head>
     <title> MegSam Bootcamp Homebase </title>
   </head>
+<html>
   <body>
     <div>
       <h1> MegSam's Bootcamp Home </h1>
