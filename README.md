@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>MegSam Bootcamp Homebase</title>
+    <title> MegSam Bootcamp Homebase </title>
   </head>
   <body>
     <div>
