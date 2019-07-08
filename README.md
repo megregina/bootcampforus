@@ -1,7 +1,6 @@
 <!DOCTYPE html>
  <head>
-    <title> MegSam Bootcamp Homebase </title>
-  </head>
+ </head>
 <html>
   <body>
     <div>
